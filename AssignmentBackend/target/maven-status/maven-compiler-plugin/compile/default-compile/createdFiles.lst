@@ -1,0 +1,5 @@
+com\collaboration\AssignmentBackend\config\AppConfig.class
+com\collaboration\AssignmentBackend\dao\UserDao.class
+com\collaboration\AssignmentBackend\dao\impl\UserDaoImpl.class
+com\collaboration\AssignmentBackend\model\User.class
+com\collaboration\AssignmentBackend\App.class
